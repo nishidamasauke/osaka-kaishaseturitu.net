@@ -1,0 +1,1 @@
+<p class="btn"><a href="#entry-form">お問い合わせ・ご応募は<br class="pc_none">こちらからお気軽にどうぞ！</a></p>
