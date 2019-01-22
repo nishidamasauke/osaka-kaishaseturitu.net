@@ -1592,6 +1592,19 @@ margin-left: 28px;
 	color: #ce121b;
 }
 
+article .data p{
+	text-align: right;
+}
+#pager .stay a{
+	display: block;
+	width:150px;
+	margin:0 auto 40px;
+	background:#000;
+	color:#FFF;
+	padding:20px 0;
+	text-align: center;
+	line-height: 1;
+}
 
 
 
